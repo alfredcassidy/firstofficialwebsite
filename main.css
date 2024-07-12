@@ -1,0 +1,46 @@
+
+
+.container-fluid{
+    background-color:#36c2ce;
+}
+ .first{
+    margin-top: 50px;
+}
+
+@media(max-width:700px){
+    .don{
+        height: 47vh;
+        background-color: #17eeb8;
+    }
+}
+
+@media(min-width:701px){
+    .don{
+        height: 90vh;
+        background-color: #17eeb8;
+    }
+}
+
+.feature-icon{
+    border: 2px solid blue;
+}
+
+ul{
+    text-align: left;
+}
+
+span{
+    text-align: center;
+    margin-left: 35%;
+}
+
+.contact{
+    font-size: 20px;
+    background-color: #478CCF;
+    color: white;
+    padding: 10px;
+}
+
+.foot{
+    background-color: #3FA2F6;
+}
